@@ -2,4 +2,4 @@
 This code is for the Bootstrap Tutorial.
 
 ## License
-[MIT](./LICENSE)
+[MIT](./LICENSE.md)
